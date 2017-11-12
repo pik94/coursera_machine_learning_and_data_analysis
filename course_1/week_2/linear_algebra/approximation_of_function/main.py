@@ -7,7 +7,7 @@ from math import sin, exp
 import numpy as np
 from scipy.linalg import solve
 from matplotlib import pyplot as plt
-
+import scipy
 
 def f(x):
     return sin(x / 5) * exp(x / 10) + 5 * exp(-x / 2)
