@@ -1,6 +1,6 @@
 # coding: utf-8
 # Python's version: 3.5
-# Задача 1: сравнение предложений
+# Задача 1: Сравнение предложений
 
 import re
 import numpy as np

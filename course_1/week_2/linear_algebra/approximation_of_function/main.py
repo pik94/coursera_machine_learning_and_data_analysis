@@ -1,6 +1,6 @@
 # coding: utf-8
 # Python's version: 3.5
-# Задача 2: аппроксимация функций
+# Задача 2: Аппроксимация функций
 
 
 from math import sin, exp

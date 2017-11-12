@@ -1,6 +1,6 @@
 # coding: utf-8
 # Python's version: 3.5
-# Задача 2: глобальная оптимизация
+# Задача 2: Глобальная оптимизация
 
 import numpy as np
 from math import sin, exp

@@ -1,6 +1,6 @@
 # coding: utf-8
 # Python's version: 3.5
-# Задача 1: минимизация гладкой функции
+# Задача 1: Минимизация гладкой функции
 
 import numpy as np
 from math import sin, exp
